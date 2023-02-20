@@ -1,6 +1,6 @@
 {
   "name": "@fathym-it/lcu-eac-modifiers-base-href",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "@fathym-it/lcu-eac-modifiers-base-href",
   "author": "Fathym, Inc",
   "main": "lcu.json",
